@@ -19,7 +19,7 @@
 
 <br />
 
-[官网](https://www.dongtaibao.cn) &nbsp;·&nbsp; [产品与数据](#关于动态宝) &nbsp;·&nbsp; [RSS 开放计划](#rss-开放计划) &nbsp;·&nbsp; [联系我们](#联系我们)
+[官网](https://www.dongtaibao.cn) &nbsp;·&nbsp; [产品与数据](#关于动态宝) &nbsp;·&nbsp; [RSS 开放计划](#rss-开放计划) &nbsp;·&nbsp; [官网 RSS 接入](https://www.dongtaibao.cn/#/rss) &nbsp;·&nbsp; [联系我们](#联系我们)
 
 </div>
 
@@ -74,7 +74,19 @@
 2. 审核通过后，开通专属 RSS 端点
 3. 订阅你需要的分类信息流，接入自有平台
 
-> 专属 RSS 端点通过审核后一对一分发，不在此公开。如需接入，请直接联系下方团队。
+**官方接入页**（官网「RSS 接入」栏目，在线提交申请）
+
+<div align="center">
+
+<a href="https://www.dongtaibao.cn/#/rss"><img src="assets/rss-apply-page.png" alt="动态宝官网 RSS 接入页" width="100%" /></a>
+
+<br />
+
+**[👉 前往官网 RSS 接入页](https://www.dongtaibao.cn/#/rss)**
+
+</div>
+
+> 专属 RSS 端点通过审核后一对一分发，不在此公开。如需接入，可前往上方官网页面在线提交，或直接联系下方团队。
 
 ---
 
