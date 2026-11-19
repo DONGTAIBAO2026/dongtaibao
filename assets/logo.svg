@@ -1,0 +1,23 @@
+<svg viewBox="0 0 420 210" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="hexGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#0C447C"/>
+<stop offset="100%" stop-color="#185FA5"/>
+</linearGradient>
+</defs>
+<g transform="translate(10, 10)">
+<path d="M95 7L171.21 51L171.21 139L95 183L18.79 139L18.79 51Z" fill="url(#hexGrad)"/>
+<path d="M30 95L44 95L54 73L64 117L74 76L83 95" stroke="#FFFFFF" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="94" cy="95" r="7.5" fill="#EF9F27"/>
+<circle cx="94" cy="95" r="3" fill="#FFFFFF" opacity="0.35"/>
+<line x1="101" y1="95" x2="135" y2="67" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="102" y1="95" x2="152" y2="95" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+<line x1="101" y1="95" x2="135" y2="123" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round"/>
+<circle cx="135" cy="67" r="3.5" fill="#FFFFFF" opacity="0.85"/>
+<circle cx="152" cy="95" r="3.5" fill="#FFFFFF" opacity="0.85"/>
+<circle cx="135" cy="123" r="3.5" fill="#FFFFFF" opacity="0.85"/>
+</g>
+<text x="210" y="108" font-family="'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="52" font-weight="700" fill="#0C447C" letter-spacing="4">动态宝</text>
+<text x="212" y="132" font-family="'Helvetica Neue','Arial',sans-serif" font-size="16" font-weight="600" fill="#5F5E5A" letter-spacing="8">DONGTAIBAO</text>
+<text x="214" y="153" font-family="'PingFang SC','Microsoft YaHei',sans-serif" font-size="13" font-weight="400" fill="#888780" letter-spacing="3">企业动态信息智能分发平台</text>
+</svg>
